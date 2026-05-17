@@ -24,4 +24,6 @@ AWS AI Learning Planner is a generative AI-based application built using AWS Par
 
 This project demonstrates practical application of prompt engineering and foundation models to solve real-world learning and productivity challenges using generative AI.
 
+## Note
 
+This project was built as part of the AWS AI & ML Scholars – AWS AI Practitioner Challenge (Udacity) where I explored generative AI, prompt engineering, and AWS PartyRock.
